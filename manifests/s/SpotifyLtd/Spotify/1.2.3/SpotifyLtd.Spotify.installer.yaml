@@ -1,0 +1,11 @@
+# Created using wingetcreate
+
+PackageIdentifier: SpotifyLtd.Spotify
+PackageVersion: 1.2.3
+Installers:
+- Architecture: x86
+  InstallerType: exe
+  InstallerUrl: https://download.scdn.co/SpotifySetup.exe
+  InstallerSha256: 783D1E248E2C5EE6F4632C72B70372AABE11AEEED418B92AA7702974CA2D3D91
+ManifestType: installer
+ManifestVersion: 1.0.0
